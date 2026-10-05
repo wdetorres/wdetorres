@@ -2,7 +2,7 @@
 
 I build AI products people trust.
 
-I'm an AI engineer at [Thinking Machines](https://thinkingmachin.es/), shipping production systems across automation, workforce training, voice, enterprise planning, and document intelligence. I turn ambiguous requirements into scoped AI builds, architecture options, TCO estimates, phased delivery plans, and clear risk tradeoffs.
+I'm an AI engineer shipping production systems across automation, workforce training, voice, enterprise planning, and document intelligence. I turn ambiguous requirements into scoped AI builds, architecture options, TCO estimates, phased delivery plans, and clear risk tradeoffs.
 
 ## What I've worked on
 
